@@ -24,7 +24,7 @@ Après avoir taper toutes les commande (DANS L'ORDRE) , une fenètre avec pour t
 
 ### Si tu veux t'inscrire sur Binance et mettre ton propre pool de minage 
 
-[Binance](https://binance.info/activity/referral-entry/CPA?ref=CPA_00THIHN3VU)
+[Binance](https://accounts.binance.com/fr/register?ref=UWT94BWT)
 
 complète les étapes et le tour est joué!!
 
