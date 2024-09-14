@@ -18,6 +18,16 @@ cd Miner-Linux
  ```
    python Linux-Miner.py
 
-   ```
-### Bon Minage à toi
+```
+
+Après avoir taper toutes les commande (DANS L'ORDRE) , une fenètre avec pour titre `Minage LTC` devrait s'afficher!maintenant tu clic sur ``Installer``! une fois cette étapes passée, tu n'as plus q'à taper tes informations de la pool de minage ou ceux par défaut ( ce par défauts ne sont pas recommandées sauf si tu veux rejoindre ma pool de minage)
+
+### Si tu veux t'inscrire sur Binance et mettre ton propre pool de minage 
+
+[Binance](https://binance.info/activity/referral-entry/CPA?ref=CPA_00THIHN3VU)
+
+complète les étapes et le tour est joué!!
+
+
+### Bon Minage à toi surtout
    
